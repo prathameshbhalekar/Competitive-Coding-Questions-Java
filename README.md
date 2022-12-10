@@ -3,8 +3,8 @@
 </p>
 
 
-![codeforces](https://img.shields.io/badge/Codeforces-specialist-brightgreen?logo=codeforces&link=https://codeforces.com/profile/Prathmesh13) 
-![codechef](https://img.shields.io/badge/Codechef-4*-red?logo=codechef&link=https://www.codechef.com/users/prathameshbb)
+[![codeforces](https://img.shields.io/badge/Codeforces-specialist-brightgreen?logo=codeforces)](https://codeforces.com/profile/Prathmesh13)
+[![codechef](https://img.shields.io/badge/Codechef-4*-red?logo=codechef)](https://www.codechef.com/users/prathameshbb)
 
 
 # Competitive-Coding-Questions-Java
